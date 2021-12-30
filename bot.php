@@ -1,6 +1,6 @@
 <?php 
 
-$TOKEN="5029460056:AAFJ9m5ZgfxAqzUh6UIrJLhnwajPl5ZFfUU";
+$TOKEN="5029460056:AAE_5J3ymvq8OmpidiZ-4jrSc_KofbsoNdg";
 $ADMIN="201555521";
 define('API_KEY',$TOKEN);
 //-----------------------------------------------------------------------------
